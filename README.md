@@ -1,6 +1,6 @@
 # BreweryEssentialsBridge
 
-
+[🇬🇧 English](README.md) | [🇷🇺 Русский](README.ru.md)
 
 A Paper plugin that bridges \[BreweryX](https://github.com/BreweryTeam/BreweryX) and \[EssentialsX](https://github.com/EssentialsX/Essentials), adding `\[BuyBrew]` / `\[SellBrew]` shop signs so players can buy and sell Brewery drinks using Essentials' economy.
 
