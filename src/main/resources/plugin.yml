@@ -1,0 +1,9 @@
+name: BreweryEssentialsBridge
+version: 1.1
+main: org.example.BreweryEssentialsBridge
+api-version: 1.21
+depend: [BreweryX, Essentials]
+permissions:
+  brewtrade.sign.create:
+    description: Allows creating BuyBrew/SellBrew signs
+    default: op
