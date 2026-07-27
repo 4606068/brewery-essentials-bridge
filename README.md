@@ -22,11 +22,11 @@ A Paper plugin that bridges [BreweryX](https://github.com/BreweryTeam/BreweryX) 
 
 ## Dependencies
 
-- \[Paper](https://papermc.io/) 1.21.x
+- [Paper](https://papermc.io/) 1.21.x
 
-- \[BreweryX](https://github.com/BreweryTeam/BreweryX) 3.7.0+
+- [BreweryX](https://github.com/BreweryTeam/BreweryX) 3.7.0+
 
-- \[EssentialsX](https://essentialsx.net/) 2.21.0+
+- [EssentialsX](https://essentialsx.net/) 2.21.0+
 
 
 
@@ -52,7 +52,7 @@ The compiled `.jar` will be in `build/libs/`.
 
 ## Installation
 
-1\. Build the plugin or download a `.jar` from \[Releases](../../releases)
+1\. Build the plugin or download a `.jar` from [Releases](../../releases)
 
 2\. Make sure \*\*BreweryX\*\* and \*\*EssentialsX\*\* are already installed on your server
 
@@ -82,7 +82,7 @@ The plugin validates the sign automatically and reopens it for editing if the da
 
 
 
-\## License
+## License
 
 MIT
 
