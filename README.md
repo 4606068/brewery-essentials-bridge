@@ -66,11 +66,16 @@ The compiled `.jar` will be in `build/libs/`.
 
 Create a sign with the following lines:
 
-```
+```text
+
 [BuyBrew] / [SellBrew]
+
 <drink name>
+
 <quality>
+
 <price>
+
 ```
 
 The plugin validates the sign automatically and reopens it for editing if the data is invalid.
