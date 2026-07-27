@@ -1,4 +1,4 @@
-\# BreweryEssentialsBridge
+# BreweryEssentialsBridge
 
 
 
@@ -6,39 +6,39 @@ A Paper plugin that bridges \[BreweryX](https://github.com/BreweryTeam/BreweryX)
 
 
 
-\## Features
+## Features
 
-\- `\[BuyBrew]` and `\[SellBrew]` shop signs
+- `\[BuyBrew]` and `\[SellBrew]` shop signs
 
-\- Buying/selling Brewery drinks with quality taken into account
+- Buying/selling Brewery drinks with quality taken into account
 
-\- Money withdrawal/deposit via Essentials Economy (Vault-based)
+- Money withdrawal/deposit via Essentials Economy (Vault-based)
 
-\- Sign creation permission (`brewtrade.sign.create`)
+- Sign creation permission (`brewtrade.sign.create`)
 
-\- Automatic sign validation (invalid signs are highlighted and reopened for editing)
-
-
-
-\## Dependencies
-
-\- \[Paper](https://papermc.io/) 1.21.x
-
-\- \[BreweryX](https://github.com/BreweryTeam/BreweryX) 3.7.0+
-
-\- \[EssentialsX](https://essentialsx.net/) 2.21.0+
+- Automatic sign validation (invalid signs are highlighted and reopened for editing)
 
 
 
-\## Tech stack
+## Dependencies
 
-\- Java 21
+- \[Paper](https://papermc.io/) 1.21.x
 
-\- Gradle (Kotlin DSL)
+- \[BreweryX](https://github.com/BreweryTeam/BreweryX) 3.7.0+
+
+- \[EssentialsX](https://essentialsx.net/) 2.21.0+
 
 
 
-\## Building
+## Tech stack
+
+- Java 21
+
+- Gradle (Kotlin DSL)
+
+
+
+## Building
 
 ```bash
 
@@ -50,7 +50,7 @@ The compiled `.jar` will be in `build/libs/`.
 
 
 
-\## Installation
+## Installation
 
 1\. Build the plugin or download a `.jar` from \[Releases](../../releases)
 
@@ -62,13 +62,13 @@ The compiled `.jar` will be in `build/libs/`.
 
 
 
-\## Usage
+## Usage
 
 Create a sign with the following lines:
 
 ```
 
-\[BuyBrew] / \[SellBrew]
+[BuyBrew] / [SellBrew]
 
 <drink name>
 
