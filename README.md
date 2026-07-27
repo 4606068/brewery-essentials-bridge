@@ -68,11 +68,8 @@ Create a sign with the following lines:
 
 ```
 [BuyBrew] / [SellBrew]
-
 <drink name>
-
 <quality>
-
 <price>
 ```
 
